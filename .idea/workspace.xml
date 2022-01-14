@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60b6ff2e-0f71-4f3b-9a63-b64f813d1fc1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="23eVsyGc1cx7LUFx0HG52EwM5WE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/auth" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60b6ff2e-0f71-4f3b-9a63-b64f813d1fc1" name="Default Changelist" comment="" />
+      <created>1642094750426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642094750426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="656" y="356" width="598" height="392" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642101280247">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="656" y="356" width="598" height="392" key="#com.intellij.fileTypes.FileTypeChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1642101280247" />
+    <state x="48" y="171" key="SettingsEditor" timestamp="1642095151516">
+      <screen x="0" y="28" width="1070" height="937" />
+    </state>
+    <state x="48" y="171" key="SettingsEditor/0.28.1070.937@0.28.1070.937" timestamp="1642095151516" />
+    <state x="449" y="189" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1642094801888" />
+    <state x="198" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1642095677694">
+      <screen x="0" y="28" width="1070" height="937" />
+    </state>
+    <state x="198" y="231" width="672" height="678" key="search.everywhere.popup/0.28.1070.937@0.28.1070.937" timestamp="1642095677694" />
+  </component>
+</project>
